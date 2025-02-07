@@ -20,7 +20,7 @@ Resume Screener is a web-based application that allows users to:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ResumeScreener.git
+git clone https://github.com/aleckovice/ResumeScreener.git
 cd ResumeScreener
 ```
 
@@ -69,13 +69,13 @@ resume-screener/
 ## Future Improvements
 - **Improve classification accuracy** using deep learning models (e.g., BERT fine-tuning).
 - **Enhance job matching** with domain-specific similarity techniques.
-- **Deploy on cloud platforms** for broader accessibility.
+
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contributors
-- **Your Name** ([@yourusername](https://github.com/yourusername))
+- **Your Name** ([@aleckovice](https://github.com/aleckovice))
 
 ## Acknowledgments
 - Built using **Flask, SBERT, Scikit-Learn, and Bootstrap**.
