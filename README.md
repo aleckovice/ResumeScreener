@@ -20,8 +20,8 @@ Resume Screener is a web-based application that allows users to:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/resume-screener.git
-cd resume-screener
+git clone https://github.com/yourusername/ResumeScreener.git
+cd ResumeScreener
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
